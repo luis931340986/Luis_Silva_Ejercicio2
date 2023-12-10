@@ -1,1 +1,7 @@
 archivo 1
+
+En el area de trabajo es donde realizamos nuestro codigo y los modificaciones
+que realizaremos posteriormente, mientras en repositorio estan los archivos
+que queremos testear para ver su funcionamiento, tambien llevaremos registro
+de las modificaciones anteriores a la validacion y regresar a ellos en caso
+que lo necesitemos.
